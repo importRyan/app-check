@@ -1,4 +1,4 @@
-// swift-tools-version:5.5
+// swift-tools-version:5.7
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 // Copyright 2023 Google LLC
@@ -29,7 +29,7 @@ let package = Package(
   dependencies: [
     .package(
       url: "https://github.com/importRyan/promises.git",
-      revision: "e12b58eb27bf90b221a43ff399c8fd55ff191408"
+      revision: "e29746168701bb83d9fa29d43daf11649da94a44"
     ),
     .package(
       url: "https://github.com/importRyan/GoogleUtilities.git",
